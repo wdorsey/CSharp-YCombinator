@@ -1,4 +1,4 @@
 C# YCombinator
 ==============
 
-The applicative-order YCombinatory written in C#
+The applicative-order YCombinator written in C#
